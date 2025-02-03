@@ -28,6 +28,6 @@ I'm an aspiring **Software Engineer** with a passion for technology and solving 
 ---
 
 ### 📊 GitHub Stats:
-[![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminadan25137&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/yasminadan25137/github-readme-stats)
+[![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmin25137&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/yasmin25137/github-readme-stats)
 
 
