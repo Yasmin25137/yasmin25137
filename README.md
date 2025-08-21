@@ -13,7 +13,7 @@
 💬 Ask me about:<br>
 - Getting started with **open-source contributions**.<br>
 - Building simple **Python scripts for data analysis**.<br>
-- Creating **visualizations** to communicate insights effectively. 📊<br><br>
+- Creating **visualisations** to communicate insights effectively. 📊<br><br>
 
 🤝 I'm open to:<br>
 - Collaborating on **beginner-friendly open-source projects**.<br>
