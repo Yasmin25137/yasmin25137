@@ -23,7 +23,6 @@
 📫 How to reach me:<br>
 - ✉️ **Email**: [yasminadan25137@gmail.com](mailto:yasminadan25137@gmail.com)<br>
 - [LinkedIn](https://www.linkedin.com/ln/yasminadan01/) 🔗<br>
-- [GitHub](https://github.com/YourGitHubUsername) 🐙
 
 
 
