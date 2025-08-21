@@ -1,6 +1,30 @@
 ## Hi there 👋, I'm Yasmin!
 # 💫 About Me:
-👩‍💻 What I'm working on:<br>- Contributing to **Bitcoin Developer Track Program** to help improve blockchain technology and develop decentralized solutions. 💻<br>- Building and deploying cloud-native applications using **Google Cloud** while enhancing my skills through a **Coursera** course. ☁️<br>- Exploring cutting-edge technologies like **blockchain**, **cloud computing**, and **distributed systems**.<br><br>🌱 I’m currently learning:<br>- **Google Cloud Platform (GCP)** for cloud infrastructure, containerization (Docker), and orchestration (Kubernetes). ☁️<br>- **Smart Contract Development** on the **Ethereum** blockchain. 🔗<br><br>💬 Ask me about:<br>- Open Source development and getting started with contributing to projects.<br>- Building cloud-native applications and working with modern cloud services like **GCP** and **AWS**.<br>- Blockchain technology, decentralized apps (DApps), and Bitcoin.<br><br>🤝 I'm open to:<br>- Collaborating on **open-source projects**.<br>- Exploring **internship opportunities** for **Summer 2025** in **Software Engineering/ Data Science/ Cybersecurity** roles.<br>- Learning from fellow engineers and discussing tech trends.<br><br>📫 How to reach me:<br>- ✉️ **Email**: [yasminadan25137@gmail.com](mailto:yasminadan25137@gmail.com)<br>- [LinkedIn](https://www.linkedin.com/ln/yasminadan01/) 🔗
+👩‍💻 What I'm working on:<br>
+- Contributing to **open-source analytics projects** with a focus on Python and quantitative problem-solving. 📊<br>
+- Developing beginner-friendly **data visualization dashboards** using **Python (pandas, matplotlib)** and **Tableau**. 📈<br>
+- Expanding my skills in **financial data analysis** through projects and hackathon challenges. 💻<br><br>
+
+🌱 I’m currently learning:<br>
+- **SQL & R** for data manipulation and statistical modeling. 🔢<br>
+- **Front-end fundamentals** with **HTML, CSS, and JavaScript** (via FreeCodeCamp). 🌐<br>
+- Beginner-level **machine learning techniques** as part of my Mathematics with Data Science degree. 🤖<br><br>
+
+💬 Ask me about:<br>
+- Getting started with **open-source contributions**.<br>
+- Building simple **Python scripts for data analysis**.<br>
+- Creating **visualizations** to communicate insights effectively. 📊<br><br>
+
+🤝 I'm open to:<br>
+- Collaborating on **beginner-friendly open-source projects**.<br>
+- Exploring **internship opportunities for Summer 2026** in **Data Analytics / Quantitative Technology**.<br>
+- Connecting with peers who are passionate about **tech for social good**. 🌍<br><br>
+
+📫 How to reach me:<br>
+- ✉️ **Email**: [yasminadan25137@gmail.com](mailto:yasminadan25137@gmail.com)<br>
+- [LinkedIn](https://www.linkedin.com/ln/yasminadan01/) 🔗<br>
+- [GitHub](https://github.com/YourGitHubUsername) 🐙
+
 
 
 ## 🌐 Socials:
